@@ -1,6 +1,6 @@
 # AI-Powered Loan Eligibility Advisor
 
-## Hasini Dandu - Infosys Virtual Internship 6.0
+##Aditya Jain - Infosys Virtual Internship 6.0
 
 ## Overview
 
